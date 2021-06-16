@@ -3,6 +3,7 @@ Google's fast-paced, practical introduction to machine learning with TensorFlow 
 
 Software: TensorFlow
 - TensorFlow is a free and open-source software library for machine learning. It can be used across a range of tasks but has a particular focus on training and inference of deep neural networks.
+
 ![image](https://user-images.githubusercontent.com/76621210/122167040-00062980-cead-11eb-8d85-f63c1c39a8fd.png)
 
 Interface: Keras
