@@ -16,6 +16,10 @@ PROGRESS
 | Course       | [Problem Framing](https://developers.google.com/machine-learning/problem-framing)                    | 🔜     |
 | Course       | [Data Preparation and Feature Engineering](https://developers.google.com/machine-learning/data-prep) | 📝     |
 | Course       | [Clustering](https://developers.google.com/machine-learning/clustering)                              | 🔜     |
-| Course       | [Recommendation Systems](https://developers.google.com/machine-learning/recommendation)                          | 🔜     |
+| Course       | [Recommendation Systems](https://developers.google.com/machine-learning/recommendation)              | 🔜     |
 | Course       | [Testing and Debugging](https://developers.google.com/machine-learning/testing-debugging)            | 🔜     |
 | Practica     | [Image Classification](https://developers.google.com/machine-learning/practica/image-classification) | ✅     |
+
+EXAMPLE
+---
+Try out some of the [examples](../../../tflearn/tree/master/examples) that come with tflearn to get your hands dirty with different neural network architectures. It even comes with built-in data sets so you don’t even have to find your own images.
