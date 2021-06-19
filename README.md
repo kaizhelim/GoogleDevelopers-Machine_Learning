@@ -1,4 +1,4 @@
-# GoogleDevelopers-Machine_Learning_Crash_Course
+# GoogleDevelopers-Machine_Learning
 Google's fast-paced, practical introduction to machine learning with TensorFlow APIs
 
 Software: TensorFlow
